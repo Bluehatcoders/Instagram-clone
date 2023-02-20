@@ -40,7 +40,7 @@
     "react-native-vertical-swipe": "^1.1.1",
     "react-native-video": "^5.0.2",
     "react-native-view-more-text": "^2.1.0",
-    "react-navigation": "^4.0.5",
+    "react-navigation": "^4.4.4",
     "react-navigation-custom-bottom-tab-component": "^1.1.1",
     "react-navigation-stack": "^1.8.0",
     "react-navigation-tabs": "^2.5.5"
